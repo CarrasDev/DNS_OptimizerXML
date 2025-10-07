@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adaptador>
+    <nombre>Ethernet</nombre>
+    <ip>ninguno</ip>
+    <mascara>ninguno</mascara>
+    <puerta>ninguno</puerta>
+    <DNS>
+        <tipo>primaria</tipo>
+        <ip>ninguno</ip>
+        <tiempo>No Calculado</tiempo>
+        <saltos>0</saltos>
+    </DNS>
+</adaptador>

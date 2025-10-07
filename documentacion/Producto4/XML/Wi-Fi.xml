@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adaptador>
+    <nombre>Wi-Fi</nombre>
+    <ip>192.168.1.13</ip>
+    <mascara>255.255.255.0</mascara>
+    <puerta>192.168.1.1</puerta>
+    <DNS>
+        <tipo>primaria</tipo>
+        <ip>1.1.1.1</ip>
+        <tiempo>8</tiempo>
+        <saltos>9</saltos>
+        <saltar>
+            <ip>192.168.1.1</ip>
+            <ip>Desconocida</ip>
+            <ip>Desconocida</ip>
+            <ip>10.255.200.65</ip>
+            <ip>10.34.201.129</ip>
+            <ip>10.34.65.173</ip>
+            <ip>81.52.188.113</ip>
+            <ip>193.251.150.10</ip>
+            <ip>1.1.1.1</ip>
+        </saltar>
+    </DNS>
+</adaptador>
