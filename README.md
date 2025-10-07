@@ -1,6 +1,6 @@
 # DNS OptimizerXML - Análisis y Reporte de Adaptadores de Red en C
 
-Este proyecto es una evolucion del proyecto [DNS_optimizer](https://github.com/CarrasDev/DNS_optimizer) que permite al usuario seleccionar un adaptador de red de su sistema, recopilar información detallada sobre él y generar un archivo XML con los datos obtenidos.
+Este proyecto es una evolucion del proyecto [DNS_optimizer](https://github.com/CarrasDev/DNS_optimizer) y permite al usuario seleccionar un adaptador de red de su sistema, recopilar información detallada sobre él y generar un archivo XML con los datos obtenidos.
 La aplicación utiliza comandos del sistema como `netsh`, `ping` y `tracert` para obtener información relevante sobre la configuración de red y el rendimiento del adaptador seleccionado.
 
 ## Características
